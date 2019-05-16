@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MecaWash</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_solicitudes">Solicitud</string>
+    <string name="title_servicios">Servicios</string>
+    <string name="title_cliente">Clientes</string>
+    <string name="title_perfil">Perfil</string>
+    <string name="title_activity_provider_client">ProviderClientActivity</string>
+    <string name="title_activity_service_client">ServiceClientActivity</string>
+    <string name="title_activity_reservation_service">ReservationServiceActivity</string>
+</resources>
